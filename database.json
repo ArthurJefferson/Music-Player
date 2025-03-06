@@ -1,0 +1,23 @@
+{
+    "musicas": [{
+        "nome": "Rap do DarkSouls",
+        "imagem": "img/Rap DarkSouls.jpeg",
+        "som": "music/Dark Souls.mp3"
+    },
+    {
+        "nome": "Immortals",
+        "imagem": "img/Immortals.jpeg",
+        "som": "music/Immortals.mp3"
+    },
+    {
+        "nome": "Bury The Light",
+        "imagem": "img/Bury The Light.jpeg",
+        "som": "music/Bury The Light Battle.mp3"
+    },
+    {
+        "nome": "Sharks",
+        "imagem": "img/Sharks.jpeg",
+        "som": "music/Sharks.mp3"
+    }
+]
+}
